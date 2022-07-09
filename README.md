@@ -1,3 +1,3 @@
 # Facial-recognition
 
-### Face recognition in the browser using Javascript
+### Face recognition using vanilla Javascript
