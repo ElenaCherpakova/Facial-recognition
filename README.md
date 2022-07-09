@@ -1,3 +1,3 @@
 # Facial-recognition
 
-### Face recognition using vanilla Javascript
+<p> Face recognition coded using vanilla Javascript </p>
